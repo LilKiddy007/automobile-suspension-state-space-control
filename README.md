@@ -52,4 +52,10 @@ The repository contains:
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See the `LICENSE` file for details.
+Documentation, images, diagrams, and other non-code materials are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+Source code is licensed under the MIT License.
+
+See:
+- `LICENSE` for documentation and media licensing.
+- `LICENSE-CODE` for source code licensing.
