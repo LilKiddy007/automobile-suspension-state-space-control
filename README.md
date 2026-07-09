@@ -1,6 +1,6 @@
 # automobile-suspension-state-space-control
 
-![Automobile suspension State-Space Control](images/full-state-control.png)
+![Automobile suspension State-Space Control](images/full-state-control.svg)
 
 ## Overview
 This project involved the modelling and control or an automobile suspension system using MATLAB and Simulink. 
@@ -13,17 +13,17 @@ with a full-state-feedback-control model and state-observer model.The modelling 
 An approximation of a standard of a speed-bump and a random pothole scenario were modelled in simulink.
 
 ## Modelling diagrams
-![Free Body Diagram](images/free-body-dia.png)
-![Bond graph](images/bond-graph.png)
+![Free Body Diagram](images/Newton-Euler-free-body-dia.svg)
+![Bond graph](images/bond-graph.svg)
 
 ## Simulation Results
 For the front suspension system system,
 
 ### Control Response
-![Front Control Results](images/front-control-response.png)
+![Front Control Results](responses/front-control-response.png)
 
 ### Observation Response
-![Front observer Results](images/front-observer-response.png)
+![Front observer Results](responses/front-observer-response.png)
 
 ## Source Files
 
